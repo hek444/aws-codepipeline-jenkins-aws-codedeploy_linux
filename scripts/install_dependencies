@@ -1,4 +1,3 @@
 #!/bin/bash -x
-rake
 sudo aptitude install -y  apache2
 
