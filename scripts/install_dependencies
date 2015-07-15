@@ -1,6 +1,4 @@
 #!/bin/bash -x
-cd ..
 rake
-cd -
 sudo aptitude install -y  apache2
 
